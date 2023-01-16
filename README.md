@@ -1,2 +1,3 @@
-# amazon signin ui
-This is just amazon sign-in page ui. Still Not responsive yet
+# Amazon Sign-in UI
+This is just Amazon Sign-In page UI. Still Not responsive yet.
+Live Website [link](https://amazonsignin.netlify.app/)
